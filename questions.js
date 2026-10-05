@@ -172,7 +172,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions. For example - a hypothetical Intermerkopum.",
+        "question": "I support regional unions in general. For example - a hypothetical Intermerkopum.",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -217,10 +217,10 @@ questions = [
         }
     },
     {
-        "question": "We should only enter alliances with other nations of Purple Blood.",
+        "question": "We should only enter alliances with other nations that are pure of blood.",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": -5,
             "govt": 0,
             "scty": -10
         }
@@ -235,12 +235,21 @@ questions = [
         }
     },
     {
+                "question": "The Rumburg threat is better responded to through war and direct confrontation than peaceful reconciliation.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
         "question": "Military spending is a waste of money.",
         "effect": {
             "econ": 0,
             "dipl": 10,
             "govt": 10,
-            "scty": 0
+            "scty": 5
         }
     },
     {
