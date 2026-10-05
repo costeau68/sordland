@@ -9,20 +9,20 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "Valgslandian Socialism",
         "stats": {
             "econ": 100,
-            "dipl": 70,
-            "govt": 80,
+            "dipl": 75,
+            "govt": 75,
             "scty": 80
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "Maleneyevism",
         "stats": {
             "econ": 100,
             "dipl": 100,
-            "govt": 60,
+            "govt": 30,
             "scty": 80
         }
     },
@@ -36,11 +36,11 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "Radical Labourism",
         "stats": {
             "econ": 100,
-            "dipl": 30,
-            "govt": 30,
+            "dipl": 45,
+            "govt": 85,
             "scty": 80
         }
     },
@@ -54,12 +54,12 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism",
+        "name": "National Marcianism",
         "stats": {
             "econ": 100,
             "dipl": 20,
-            "govt": 0,
-            "scty": 60
+            "govt": 10,
+            "scty": 75
         }
     },
     {
@@ -72,12 +72,12 @@ ideologies = [
         }
     },
     {
-        "name": "State Socialism",
+        "name": "Sollist Socialism",
         "stats": {
             "econ": 80,
-            "dipl": 30,
+            "dipl": 25,
             "govt": 30,
-            "scty": 70
+            "scty": 35
         }
     },
     {
@@ -99,12 +99,12 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "Reformist Socialism",
         "stats": {
             "econ": 80,
             "dipl": 50,
             "govt": 50,
-            "scty": 80
+            "scty": 70
         }
     },
     {
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "Anarcho-Labourism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -279,12 +279,12 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "Galadepolitik",
         "stats": {
-            "econ": 40,
-            "dipl": 40,
+            "econ": 55,
+            "dipl": 35,
             "govt": 40,
-            "scty": 10
+            "scty": 35
         }
     },
     {
@@ -306,11 +306,11 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "Koranellism",
         "stats": {
-            "econ": 40,
-            "dipl": 50,
-            "govt": 100,
+            "econ": 10,
+            "dipl": 40,
+            "govt": 95,
             "scty": 50
         }
     },
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fascism",
+        "name": "Totalism",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -383,16 +383,16 @@ ideologies = [
             "econ": 20,
             "dipl": 30,
             "govt": 20,
-            "scty": 40
+            "scty": 50
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "Sollist Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 50,
             "govt": 30,
-            "scty": 50
+            "scty": 30
         }
     },
     {
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ultra-reformist Capitalism",
+        "name": "Immediatist Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,12 +432,12 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "Lotherberg Thought",
         "stats": {
-            "econ": 10,
-            "dipl": 50,
-            "govt": 90,
-            "scty": 40
+            "econ": 5,
+            "dipl": 85,
+            "govt": 55,
+            "scty": 50
         }
     },
     {
