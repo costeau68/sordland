@@ -136,12 +136,12 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "Quality education is a right of all Sordish citizens.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": 10
         }
     },
     {
@@ -163,7 +163,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Military action by Sordland is often necessary to protect it.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -172,12 +172,12 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "I support regional unions. For example - a hypothetical Intermerkopum.",
         "effect": {
             "econ": -5,
             "dipl": 10,
             "govt": 10,
-            "scty": 5
+            "scty": 0
         }
     },
     {
@@ -214,6 +214,15 @@ questions = [
             "dipl": 10,
             "govt": 0,
             "scty": 0
+        }
+    },
+    {
+        "question": "We should only enter alliances with other nations of Purple Blood.",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": 0,
+            "scty": -10
         }
     },
     {
@@ -352,7 +361,7 @@ questions = [
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Regardless of political opinions, it is important to side with Sordland.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -460,11 +469,11 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Certain religious teachings, such as creationism, should be allowed or the only option in schools.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 5,
             "scty": -10
         }
     },
@@ -568,12 +577,21 @@ questions = [
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "If we have minority populations at all, it is important that they assimilate into our culture.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": -5,
             "scty": -10
+        }
+    },
+    {
+        "question": "The only way to solve the Bludish Question is force.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": -5
         }
     },
     {
@@ -586,11 +604,11 @@ questions = [
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "A right to keep and bear arms (firearms) should be introduced in Sordland.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -604,7 +622,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Preserve Human Dignity - Prostitution should be illegal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -631,15 +649,6 @@ questions = [
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
         "question": "We should open our borders to immigration.",
         "effect": {
             "econ": 0,
@@ -649,7 +658,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "Sordland should be as concerned about foreigners as we are about our own citizens.",
         "effect": {
             "econ": 0,
             "dipl": 10,
