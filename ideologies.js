@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "Orthodox Marcianism",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Stalinism",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "Nurist Communism",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "Nurist Democracy",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressivism",
+        "name": "Hyperprogressivism",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -315,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
+        "name": "Ultra-Sordism",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "Arcasian Liberalism",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -369,12 +369,12 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "Lespian Model",
         "stats": {
-            "econ": 30,
-            "dipl": 60,
-            "govt": 60,
-            "scty": 80
+            "econ": 25,
+            "dipl": 65,
+            "govt": 50,
+            "scty": 50
         }
     },
     {
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "Ultra-reformist Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 50,
