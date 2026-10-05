@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by oligarchs is more of a concern than oppression by the deep state.",
+        "question": "The economic dominace of oligarchs is more of a concern than oppression by the deep state.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -15,6 +15,7 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 0
+
         }
     },
     {
