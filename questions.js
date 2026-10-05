@@ -9,9 +9,18 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "Money and the backdoor deals it produces are too influential in Sordland.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "State intervention in the economy is a necessity.",
+        "effect": {
+            "econ": 5,
             "dipl": 0,
             "govt": 0,
             "scty": 0
