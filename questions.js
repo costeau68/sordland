@@ -73,12 +73,12 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "Marcian socio-economics and its derivatives are the best way of analysing the world.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 15,
+            "dipl": 10,
+            "govt": 5,
+            "scty": 5
         }
     },
     {
@@ -127,7 +127,7 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "Healthcare should be at least partially privatised.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -154,7 +154,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "The Alliance of Nations should be abolished.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -190,7 +190,16 @@ questions = [
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "A single world government would be beneficial to us.",
+        "effect": {
+            "econ": 0,
+            "dipl": 15,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+                "question": "A single regional government (like a Merkopan Federation) would be beneficial to us.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -235,7 +244,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Greci Sordland.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -271,16 +280,16 @@ questions = [
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Sordland should not be a secular country.",
         "effect": {
             "econ": 0,
-            "dipl": -5,
+            "dipl": 0,
             "govt": -10,
             "scty": -10
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Sordish values should be spread as much as possible.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -361,6 +370,15 @@ questions = [
         }
     },
     {
+         "question": "If elections are to exist, they should have high thresholds and other restrictions on minority groups.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
         "question": "A hierarchical state is best.",
         "effect": {
             "econ": 0,
@@ -394,6 +412,15 @@ questions = [
             "dipl": 0,
             "govt": 10,
             "scty": 0
+        }
+    },
+    {
+        "question": "The Constitution should be reformed in some way.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
         }
     },
     {
