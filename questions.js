@@ -28,7 +28,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "The freer the market, the freer the people.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -42,6 +42,15 @@ questions = [
             "econ": -10,
             "dipl": 0,
             "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "It is better to maintain a balanced budget than to ensure government ministries are adequately funded.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": -5,
             "scty": 0
         }
     },
