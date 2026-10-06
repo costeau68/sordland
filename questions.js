@@ -27,10 +27,10 @@ questions = [
         }
     },
     {
-        "question": "State intervention in the economy is a necessity.",
+        "question": "State intervention in the economy is a pillar of Sordish society.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
+            "econ": 10,
+            "dipl": -5,
             "govt": 0,
             "scty": 0
 
