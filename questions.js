@@ -235,10 +235,10 @@ questions = [
         }
     },
     {
-        "question": "We should only enter alliances with other nations that are pure of blood.",
+        "question": "We should only enter alliances with nations that are pure of blood.",
         "effect": {
             "econ": 0,
-            "dipl": -5,
+            "dipl": -10,
             "govt": 0,
             "scty": -10
         }
