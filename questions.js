@@ -18,6 +18,15 @@ questions = [
         }
     },
     {
+                "question": "Continue on the path of Alphonso and privatise more industry.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
         "question": "State intervention in the economy is a necessity.",
         "effect": {
             "econ": 5,
@@ -32,6 +41,15 @@ questions = [
         "effect": {
             "econ": -10,
             "dipl": 0,
+            "govt": 0,
+            "scty": 0                  
+        }
+    },
+    {
+        "question": "The Energy Protection Act should be loosened or removed.",
+        "effect": {
+            "econ": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -496,16 +514,16 @@ questions = [
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "Pollution and environmental destruction is currently one of the greatest threats to our way of life.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 5
         }
     },
     {
-        "question": "It is important that we work as a united world to combat climate change.",
+        "question": "It is important that we work as a united world to combat pollution.",
         "effect": {
             "econ": 0,
             "dipl": 10,
