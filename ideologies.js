@@ -45,15 +45,6 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
-        "stats": {
-            "econ": 100,
-            "dipl": 40,
-            "govt": 20,
-            "scty": 70
-        }
-    },
-    {
         "name": "National Marcianism",
         "stats": {
             "econ": 100,
@@ -68,7 +59,7 @@ ideologies = [
             "econ": 100,
             "dipl": 50,
             "govt": 30,
-            "scty": 30
+            "scty": 25
         }
     },
     {
