@@ -255,7 +255,7 @@ ideologies = [
         "name": "Reformist Sollism",
         "stats": {
             "econ": 55,
-            "dipl": 40,
+            "dipl": 35,
             "govt": 40,
             "scty": 40
         }
@@ -274,7 +274,7 @@ ideologies = [
         "stats": {
             "econ": 55,
             "dipl": 35,
-            "govt": 40,
+            "govt": 35,
             "scty": 35
         }
     },
