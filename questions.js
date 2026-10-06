@@ -349,14 +349,14 @@ questions = [
             "dipl": 0,
             "govt": -10,
             "scty": 0
-        }
+         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "The media is a tool to be used.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -416,6 +416,15 @@ questions = [
     },
     {
         "question": "A hierarchical state is best.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+                "question": "The Red Youth, Young Sords or both should be banned.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -622,20 +631,11 @@ questions = [
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
         "question": "A right to keep and bear arms (firearms) should be introduced in Sordland.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -703,6 +703,16 @@ questions = [
         }
     },
     {
+                "question": "Soll was right all along with his policies.",
+        "effect": {
+            "econ": 10,
+            "dipl": -10,
+            "govt": 10,
+            "scty": -10
+        }
+    },
+    {
+
         "question": "It is important that we further my group's goals above all others.",
         "effect": {
             "econ": -10,
