@@ -145,15 +145,6 @@ questions = [
         }
     },
     {
-        "question": "Healthcare should be at least partially privatised.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "Quality education is a right of all Sordish citizens.",
         "effect": {
             "econ": 5,
