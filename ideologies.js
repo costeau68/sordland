@@ -81,21 +81,21 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "Nurist Socialism",
         "stats": {
-            "econ": 80,
+            "econ": 75,
             "dipl": 50,
             "govt": 30,
             "scty": 20
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "Orthodox Maximism",
         "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 70,
-            "scty": 20
+            "econ": 60,
+            "dipl": 70,
+            "govt": 25,
+            "scty": 90
         }
     },
     {
@@ -108,9 +108,9 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "Social Maximism",
         "stats": {
-            "econ": 80,
+            "econ": 70,
             "dipl": 20,
             "govt": 50,
             "scty": 70
@@ -135,11 +135,11 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Wing Populism",
+        "name": "Sordish Socialism",
         "stats": {
             "econ": 60,
-            "dipl": 40,
-            "govt": 30,
+            "dipl": 55,
+            "govt": 50,
             "scty": 70
         }
     },
@@ -162,12 +162,12 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "Ricter Thought",
         "stats": {
             "econ": 60,
             "dipl": 60,
             "govt": 60,
-            "scty": 80
+            "scty": 60
         }
     },
     {
@@ -180,11 +180,11 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "Suheil Thought",
         "stats": {
-            "econ": 60,
+            "econ": 65,
             "dipl": 70,
-            "govt": 60,
+            "govt": 50,
             "scty": 80
         }
     },
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "Ultranational Totalism",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -333,16 +333,16 @@ ideologies = [
         }
     },
     {
-        "name": "Totalism",
+        "name": "Totalist Maximism",
         "stats": {
-            "econ": 40,
+            "econ": 60,
             "dipl": 20,
-            "govt": 20,
-            "scty": 20
+            "govt": 10,
+            "scty": 40
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "Capitalist Totalism",
         "stats": {
             "econ": 20,
             "dipl": 20,
