@@ -258,7 +258,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -267,7 +267,7 @@ questions = [
             "econ": 0,
             "dipl": -10,
             "govt": 0,
-            "scty": -10
+            "scty": -5
         }
     },
     {
