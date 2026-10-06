@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Sollist Socialism",
+        "name": "Neo-Sollist Socialism",
         "stats": {
             "econ": 80,
             "dipl": 25,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Labourism",
+        "name": "Syndicate Labourism",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "Nurist Theocracy",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -153,12 +153,12 @@ ideologies = [
         }
     },
     {
-        "name": "Distributism",
+        "name": "Anti-Oligarch Capitalism",
         "stats": {
             "econ": 60,
             "dipl": 50,
-            "govt": 50,
-            "scty": 20
+            "govt": 45,
+            "scty": 60
         }
     },
     {
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "AN Anti-Dast Thought",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,11 +225,11 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "Moderate Maximism",
         "stats": {
-            "econ": 60,
-            "dipl": 60,
-            "govt": 20,
+            "econ": 50,
+            "dipl": 55,
+            "govt": 40,
             "scty": 70
         }
     },
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "Sordish Liberalism",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "Nurist Anarchism",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,21 +261,21 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "Reformist Sollism",
         "stats": {
-            "econ": 40,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 30
+            "econ": 55,
+            "dipl": 40,
+            "govt": 40,
+            "scty": 40
         }
     },
     {
-        "name": "Moderate Conservatism",
+        "name": "Orthodox Sollism",
         "stats": {
-            "econ": 40,
-            "dipl": 40,
-            "govt": 50,
-            "scty": 30
+            "econ": 65,
+            "dipl": 30,
+            "govt": 40,
+            "scty": 40
         }
     },
     {
@@ -288,19 +288,19 @@ ideologies = [
         }
     },
     {
-        "name": "Social Libertarianism",
+        "name": "Social Sordism",
         "stats": {
-            "econ": 60,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 70
+            "econ": 70,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 20
         }
     },
     {
-        "name": "Libertarianism",
+        "name": "Arcasian Immediatism",
         "stats": {
-            "econ": 40,
-            "dipl": 60,
+            "econ": 10,
+            "dipl": 80,
             "govt": 80,
             "scty": 60
         }
@@ -324,15 +324,6 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
-        "stats": {
-            "econ": 50,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 50
-        }
-    },
-    {
         "name": "Totalist Maximism",
         "stats": {
             "econ": 60,
@@ -351,12 +342,21 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "Traditionalist Sollism",
         "stats": {
-            "econ": 30,
-            "dipl": 40,
-            "govt": 40,
-            "scty": 20
+            "econ": 70,
+            "dipl": 30,
+            "govt": 30,
+            "scty": 15
+         }
+    },
+    {
+        "name": "Black Batallionism",
+        "stats": {
+            "econ": 65,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 5
         }
     },
     {
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "Sollist Capitalism",
+        "name": "Neo-Sollist Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -446,15 +446,6 @@ ideologies = [
             "econ": 0,
             "dipl": 30,
             "govt": 0,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Ultra-Capitalism",
-        "stats": {
-            "econ": 0,
-            "dipl": 40,
-            "govt": 50,
             "scty": 50
         }
     },
