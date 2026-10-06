@@ -48,7 +48,7 @@ ideologies = [
         "name": "National Marcianism",
         "stats": {
             "econ": 100,
-            "dipl": 20,
+            "dipl": 15,
             "govt": 10,
             "scty": 75
         }
@@ -353,8 +353,8 @@ ideologies = [
     {
         "name": "Arcasian Liberalism",
         "stats": {
-            "econ": 30,
-            "dipl": 30,
+            "econ": 25,
+            "dipl": 60,
             "govt": 50,
             "scty": 60
         }
