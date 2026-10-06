@@ -95,7 +95,7 @@ questions = [
         "effect": {
             "econ": 15,
             "dipl": 10,
-            "govt": 5,
+            "govt": -5,
             "scty": 5
         }
     },
