@@ -82,7 +82,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "Tariffs on international trade, and autarky as a whole, are important to encourage local production.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -199,6 +199,15 @@ questions = [
         }
     },
     {
+        "question": "Sollist civic nationalism is better than Sordist ethnic nationalism.",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
         "question": "A single world government would be beneficial to us.",
         "effect": {
             "econ": 0,
@@ -241,6 +250,15 @@ questions = [
             "dipl": -10,
             "govt": -10,
             "scty": 0
+         }
+    },
+    {
+        "question": "Sordland should enter a superpower bloc, like the CSP or ATO.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
@@ -253,7 +271,7 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Defund the SAF.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -262,9 +280,9 @@ questions = [
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "We should block international aid from countries like Arcasia and United Contana, as they are scheming against Sordland.",
         "effect": {
-            "econ": -5,
+            "econ": 0,
             "dipl": -10,
             "govt": 0,
             "scty": 0
@@ -289,7 +307,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Governments should be accountable to the AN.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -361,7 +379,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "The powers of the Interior Ministry should be expanded.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -370,7 +388,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "The Sordish government in general, not just a specific branch, is too strong.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -424,12 +442,12 @@ questions = [
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "The influence of the Old Guard must be removed from politics.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "govt": 5,
+            "scty": 5
         }
     },
     {
@@ -442,12 +460,12 @@ questions = [
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "Democracy and the Republic are intrinsic to the Sordish nation, more than just simple forms of government.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -478,11 +496,11 @@ questions = [
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Children should be educated in religious or traditional values at home.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": -10
         }
     },
@@ -574,6 +592,15 @@ questions = [
             "dipl": 0,
             "govt": 10,
             "scty": 2
+         }
+    },
+    {
+        "question": "The Sordish justice system should be more lenient in general.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
         }
     },
     {
@@ -667,7 +694,7 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "We should keep immigration laws relaxed.",
         "effect": {
             "econ": 0,
             "dipl": 10,
