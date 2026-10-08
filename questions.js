@@ -33,6 +33,15 @@ questions = [
             "dipl": -5,
             "govt": 0,
             "scty": 0
+        }
+    },
+    {
+        "question": "Humanity in the 20th century is thriving due to the rule of supply and demand.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 5
 
         }
     },
@@ -68,7 +77,7 @@ questions = [
         "effect": {
             "econ": -10,
             "dipl": 0,
-            "govt": -5,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -82,7 +91,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade, and autarky as a whole, are important to encourage local production.",
+        "question": "Tariffs on international trade, and autarky as a whole, are neccesary to encourage local production.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -109,12 +118,22 @@ questions = [
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "Taxes should be increased on businesses to provide for the poor.",
         "effect": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
+        }
+    },
+    {
+        "question": "Major infrastructure projects should utilise private companies more than state ones.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+
         }
     },
     {
@@ -240,7 +259,16 @@ questions = [
             "econ": 0,
             "dipl": -10,
             "govt": 0,
-            "scty": -10
+            "scty": -5
+         }
+    },
+    {
+        "question": "We should focus on domestic issues more than international issues.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
@@ -271,7 +299,7 @@ questions = [
         }
     },
     {
-        "question": "Defund the SAF.",
+        "question": "Defund the Sordish Armed Forces.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -412,6 +440,15 @@ questions = [
             "dipl": 0,
             "govt": 10,
             "scty": 5
+         }
+    },
+    {
+        "question": "The power of the Supreme Court in general must be broken.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 5
         }
     },
     {
@@ -430,6 +467,16 @@ questions = [
             "dipl": 0,
             "govt": -10,
             "scty": 0
+        }
+    },
+    {
+        "question": "The power of presidential decrees should be strengthened, or at least maintained.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+
         }
     },
     {
@@ -518,7 +565,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
+            "govt": 0,
             "scty": -10
         }
     },
@@ -546,7 +593,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 10
+            "scty": 5
         }
     },
     {
@@ -602,6 +649,15 @@ questions = [
             "dipl": 0,
             "govt": 10,
             "scty": 2
+        }
+    },
+    {
+                "question": "Soll should be put on trial for his actions and imprisoned, perhaps even executed.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 5
          }
     },
     {
@@ -641,7 +697,7 @@ questions = [
         }
     },
     {
-        "question": "Social standards should not be enforced in the same way across society. Particularly regarding Bluds.",
+        "question": "Even progressive social reforms should not be enforced in the same way across society, particularly when acknowledging Bluds.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -722,7 +778,7 @@ questions = [
         }
     },
     {
-        "question": "Sordland should be as concerned about foreigners as we are about our own citizens.",
+        "question": "Sordland should be as concerned about foreigners as it is about its own citizens.",
         "effect": {
             "econ": 0,
             "dipl": 10,
