@@ -175,12 +175,12 @@ ideologies = [
         "stats": {
             "econ": 65,
             "dipl": 70,
-            "govt": 50,
+            "govt": 65,
             "scty": 80
         }
     },
     {
-        "name": "Hyperprogressivism",
+        "name": "Hypermaximism",
         "stats": {
             "econ": 60,
             "dipl": 80,
