@@ -154,10 +154,10 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "Long live the people's revolutions.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -181,16 +181,16 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions in general. For example - a hypothetical Intermerkopum.",
+        "question": "We should reject agreements or cooperation with countries who are aligned with our rivals, such as Rizia.",
         "effect": {
-            "econ": -5,
-            "dipl": 10,
-            "govt": 10,
+            "econ": 5,
+            "dipl": -5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "It is important to assert our national sovereignty.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -204,7 +204,7 @@ questions = [
             "econ": 0,
             "dipl": 5,
             "govt": 5,
-            "scty": 0
+            "scty": 5
         }
     },
     {
@@ -523,7 +523,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Churches and temples should be taxed the same way other institutions are taxed.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -550,7 +550,7 @@ questions = [
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "Our society was better under the Kingdom than it is now.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -559,7 +559,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "Sordland must not be bound by Sollism.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -568,12 +568,21 @@ questions = [
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
+        "question": "It is important to reform our education system.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
             "scty": 10
+        }
+    },
+    {
+        "question": "We should be unrestrained regarding morality and control, as all that really matters is efficiency.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 5
         }
     },
     {
@@ -583,6 +592,7 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 10
+
         }
     },
     {
@@ -604,7 +614,7 @@ questions = [
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "Same-sex relationships should be legal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -622,7 +632,16 @@ questions = [
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "The rights of women in Sordland need to be expanded.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Social standards should not be enforced in the same way across society. Particularly regarding Bluds.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -634,16 +653,16 @@ questions = [
         "question": "If we have minority populations at all, it is important that they assimilate into our culture.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": -5,
             "govt": -5,
-            "scty": -10
+            "scty": 0
         }
     },
     {
         "question": "The only way to solve the Bludish Question is force.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
+            "dipl": -5,
             "govt": -10,
             "scty": -5
         }
