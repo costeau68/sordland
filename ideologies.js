@@ -84,7 +84,7 @@ ideologies = [
         "name": "Orthodox Maximism",
         "stats": {
             "econ": 60,
-            "dipl": 70,
+            "dipl": 55,
             "govt": 25,
             "scty": 90
         }
@@ -102,8 +102,8 @@ ideologies = [
         "name": "Social Maximism",
         "stats": {
             "econ": 70,
-            "dipl": 20,
-            "govt": 50,
+            "dipl": 40,
+            "govt": 30,
             "scty": 70
         }
     },
@@ -318,9 +318,9 @@ ideologies = [
         "name": "Totalist Maximism",
         "stats": {
             "econ": 60,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 10,
-            "scty": 40
+            "scty": 60
         }
     },
     {
