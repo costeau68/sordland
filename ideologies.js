@@ -21,7 +21,7 @@ ideologies = [
         "name": "Maleneyevism",
         "stats": {
             "econ": 100,
-            "dipl": 100,
+            "dipl": 90,
             "govt": 30,
             "scty": 80
         }
@@ -30,7 +30,7 @@ ideologies = [
         "name": "Orthodox Marcianism",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 75,
             "govt": 40,
             "scty": 80
         }
@@ -48,8 +48,8 @@ ideologies = [
         "name": "National Marcianism",
         "stats": {
             "econ": 100,
-            "dipl": 15,
-            "govt": 10,
+            "dipl": 25,
+            "govt": 30,
             "scty": 75
         }
     },
@@ -138,9 +138,9 @@ ideologies = [
         "name": "Nurist Theocracy",
         "stats": {
             "econ": 60,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 30,
-            "scty": 20
+            "scty": 5
         }
     },
     {
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "I have no idea what to call this",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -201,8 +201,8 @@ ideologies = [
         "name": "Ultranational Totalism",
         "stats": {
             "econ": 50,
-            "dipl": 20,
-            "govt": 0,
+            "dipl": 5,
+            "govt": 5,
             "scty": 50
         }
     },
@@ -212,7 +212,7 @@ ideologies = [
             "econ": 50,
             "dipl": 80,
             "govt": 0,
-            "scty": 50
+            "scty": 60
         }
     },
     {
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Centrism",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -255,7 +255,7 @@ ideologies = [
         "name": "Reformist Sollism",
         "stats": {
             "econ": 55,
-            "dipl": 35,
+            "dipl": 40,
             "govt": 40,
             "scty": 40
         }
@@ -265,8 +265,8 @@ ideologies = [
         "stats": {
             "econ": 65,
             "dipl": 30,
-            "govt": 40,
-            "scty": 40
+            "govt": 35,
+            "scty": 35
         }
     },
     {
@@ -335,10 +335,10 @@ ideologies = [
     {
         "name": "Traditionalist Sollism",
         "stats": {
-            "econ": 70,
+            "econ": 65,
             "dipl": 30,
             "govt": 30,
-            "scty": 15
+            "scty": 20
          }
     },
     {
@@ -353,7 +353,7 @@ ideologies = [
     {
         "name": "Arcasian Liberalism",
         "stats": {
-            "econ": 25,
+            "econ": 20,
             "dipl": 60,
             "govt": 50,
             "scty": 60
@@ -363,13 +363,13 @@ ideologies = [
         "name": "Lespian Model",
         "stats": {
             "econ": 25,
-            "dipl": 65,
+            "dipl": 40,
             "govt": 50,
             "scty": 50
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "Directed Capitalism",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -383,25 +383,16 @@ ideologies = [
             "econ": 20,
             "dipl": 50,
             "govt": 30,
-            "scty": 30
+            "scty": 35
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "Nurist Capitalism",
         "stats": {
             "econ": 20,
-            "dipl": 20,
+            "dipl": 45,
             "govt": 40,
             "scty": 20
-        }
-    },
-    {
-        "name": "Fundamentalism",
-        "stats": {
-            "econ": 20,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 5
         }
     },
     {
@@ -414,21 +405,12 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 50
-        }
-    },
-    {
         "name": "Lotherberg Thought",
         "stats": {
             "econ": 5,
-            "dipl": 85,
-            "govt": 55,
-            "scty": 50
+            "dipl": 90,
+            "govt": 60,
+            "scty": 60
         }
     },
     {
